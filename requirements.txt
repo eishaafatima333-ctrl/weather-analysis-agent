@@ -1,0 +1,7 @@
+streamlit
+deepagents
+langchain
+langchain-google-genai
+python-dotenv
+requests
+reportlab
